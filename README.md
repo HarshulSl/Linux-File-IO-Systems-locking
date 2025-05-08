@@ -156,6 +156,12 @@ int main(int argc, char *argv[]) {
 
 ![Alt text](./ex07-2.png)
 
+![Alt text](./img/ex07-3.png)
+
+![Alt text](./img/ex07-4.png)
+
+![Alt text](./img/ex07-5.png)
+
 
 
 # RESULT:
